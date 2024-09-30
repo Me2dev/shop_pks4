@@ -1,16 +1,7 @@
-# shop_pks4
+# ПКС Практическая работа 4
 
-A new Flutter project.
+# Медведев Александр ЭФБО-04-22
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/492e0054-ab7d-4ae0-ba38-edb66b47faf6
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
